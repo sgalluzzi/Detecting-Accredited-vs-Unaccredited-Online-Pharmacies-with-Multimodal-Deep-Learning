@@ -1,0 +1,2488 @@
+﻿BusinessName_PharmacyName,BusinessName_PharmacyName1,Website,EndDate_MembershipType
+"
+		AcariaHealth, Inc
+		
+		8517 Southpark CircleOrlando, FL 32819
+		
+		[+] 10 Stores
+		[-] 10 Stores
+	",[+] 10 Stores,"
+		https://acariahealth.envolvehealth.com
+
+
+	if (""https://acariahealth.envolvehealth.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1401_WEBADDR"").href = ""https://acariahealth.envolvehealth.com"";
+	}
+
+www.foundcare.com
+
+
+	if (""www.foundcare.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""217_WEBADDR"").href = ""www.foundcare.com"";
+	}
+
+www.myacaria.com
+
+
+	if (""www.myacaria.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1400_WEBADDR"").href = ""www.myacaria.com"";
+	}
+
+
+	","
+		
+		07/22/23
+		
+		
+		
+		Open to all
+	"
+"
+		Accredo Health Group, Inc
+		
+		1620 Century Center Pkwy, Ste 109Memphis, TN 38134
+		
+		[+] 28 Stores
+		[-] 28 Stores
+	",[+] 28 Stores,"
+		www.accredo.pharmacy
+
+
+	if (""www.accredo.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1975_WEBADDR"").href = ""www.accredo.pharmacy"";
+	}
+
+
+	","
+		
+		04/22/23
+		
+		
+		
+		Open to all
+	"
+"
+		AHSSHC Expedien RX Pharmacy
+		
+		582 Monroe RoadSanford, FL 32771
+		
+		[+] 9 Stores
+		[-] 9 Stores
+	",[+] 9 Stores,"
+		www.AHSSCHDBAEXPEDIENRXPHARMACY.PHARMACY
+
+
+	if (""www.AHSSCHDBAEXPEDIENRXPHARMACY.PHARMACY"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1980_WEBADDR"").href = ""www.AHSSCHDBAEXPEDIENRXPHARMACY.PHARMACY"";
+	}
+
+
+	","
+		
+		06/10/24
+		
+		
+		
+		Open to all
+	"
+"
+		Alphascript, Inc.
+		
+		420 Industrial RoadSan Carlos, CA 94070
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.alphascriptrx.com
+
+
+	if (""www.alphascriptrx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2077_WEBADDR"").href = ""www.alphascriptrx.com"";
+	}
+
+
+	","
+		
+		12/05/24
+		
+		
+		
+		Open to all
+	"
+"
+		Alto Pharmacy 
+		
+		1400 Tennessee StreetSan Francisco, CA 97107
+		
+		[+] 15 Stores
+		[-] 15 Stores
+	",[+] 15 Stores,"
+		https://alto.com
+
+
+	if (""https://alto.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1070_WEBADDR"").href = ""https://alto.com"";
+	}
+
+
+	","
+		
+		04/24/24
+		
+		
+		
+		Open to all
+	"
+"
+		Amber Specialty Pharmacy
+		
+		10004 South 152nd StOmaha, NE 68138
+		
+		[+] 18 Stores
+		[-] 18 Stores
+	",[+] 18 Stores,"
+		www.amberpharmacy.com
+
+
+	if (""www.amberpharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2114_WEBADDR"").href = ""www.amberpharmacy.com"";
+	}
+
+
+	","
+		
+		03/04/24
+		
+		
+		
+		Open to All
+	"
+"
+		AmeriPharm, Inc dba MedVantx Pharmacy Services
+		
+		4655 Executive Drive, Suite 230San Diego, CA 92121
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		www.medvantxrx.com
+
+
+	if (""www.medvantxrx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""522_WEBADDR"").href = ""www.medvantxrx.com"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		AON Pharmacy, LLC
+		
+		14543 Global Parkway, Suite 110Fort Myers, FL 33913
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.aoncology.com
+
+
+	if (""www.aoncology.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2126_WEBADDR"").href = ""www.aoncology.com"";
+	}
+
+
+	","
+		
+		09/01/24
+		
+		
+		
+		Open to all
+	"
+"
+		AV Pharma LLC
+		
+		1545 University Blvd NJacksonville, FL 32211
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.citizenpharmacy.com
+
+
+	if (""www.citizenpharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1990_WEBADDR"").href = ""www.citizenpharmacy.com"";
+	}
+
+
+	","
+		
+		02/10/24
+		
+		
+		
+		Open to all
+	"
+"
+		BioPlus Specialty Pharmacy Services, LLC
+		
+		376 S Northlake Blvd, Suite 1008Altamonte Springs, FL 32701
+		
+		[+] 6 Stores
+		[-] 6 Stores
+	",[+] 6 Stores,"
+		www.bioplusrx.com
+
+
+	if (""www.bioplusrx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""530_WEBADDR"").href = ""www.bioplusrx.com"";
+	}
+
+www.bioplus.pharmacy
+
+
+	if (""www.bioplus.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""784_WEBADDR"").href = ""www.bioplus.pharmacy"";
+	}
+
+www.bioplusspecialty.pharmacy
+
+
+	if (""www.bioplusspecialty.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""785_WEBADDR"").href = ""www.bioplusspecialty.pharmacy"";
+	}
+
+www.bioplushealth.com
+
+
+	if (""www.bioplushealth.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1166_WEBADDR"").href = ""www.bioplushealth.com"";
+	}
+
+
+	","
+		
+		07/05/23
+		
+		
+		
+		Open to all
+	"
+"
+		Birdi, Inc
+		
+		888 Prospect St, Suite 340La Jolla, CA 92037
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.birdirx.com
+
+
+	if (""www.birdirx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""298_WEBADDR"").href = ""www.birdirx.com"";
+	}
+
+
+	","
+		
+		12/13/24
+		
+		
+		
+		Open to all
+	"
+"
+		Boston Medical Center Corporation
+		
+		One Boston Medical Center PlaceBoston, MA 02118
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.cornerstonehealthsolutions.org
+
+
+	if (""www.cornerstonehealthsolutions.org"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1954_WEBADDR"").href = ""www.cornerstonehealthsolutions.org"";
+	}
+
+
+	","
+		
+		12/14/23
+		
+		
+		
+		Open to all
+	"
+"
+		CareFirst Specialty Pharmacy LLC
+		
+		400 Fellowship Road, Suite 100Mount Laurel, NJ 08054
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.cfspharmacy.pharmacy
+
+
+	if (""www.cfspharmacy.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1695_WEBADDR"").href = ""www.cfspharmacy.pharmacy"";
+	}
+
+
+	","
+		
+		10/26/22
+		
+		
+		
+		Open to All
+	"
+"
+		Caremark Rx, LLC
+		
+		2100 East Lake Cook RdBuffalo Grove, IL 60089
+		
+		[+] 49 Stores
+		[-] 49 Stores
+	",[+] 49 Stores,"
+		www.caremark.com
+
+
+	if (""www.caremark.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""155_WEBADDR"").href = ""www.caremark.com"";
+	}
+
+www.cvscaremark.pharmacy
+
+
+	if (""www.cvscaremark.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""812_WEBADDR"").href = ""www.cvscaremark.pharmacy"";
+	}
+
+www.caremark.pharmacy
+
+
+	if (""www.caremark.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""813_WEBADDR"").href = ""www.caremark.pharmacy"";
+	}
+
+www.cvsspecialty.com
+
+
+	if (""www.cvsspecialty.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""834_WEBADDR"").href = ""www.cvsspecialty.com"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Membership Required
+	"
+"
+		Carepoint Healthcare LLC dba Carepoint Pharmacy 
+		
+		9 E Commerce DrSchaumburg, IL 60173
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.carepointrx.com
+
+
+	if (""www.carepointrx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1323_WEBADDR"").href = ""www.carepointrx.com"";
+	}
+
+
+	","
+		
+		05/25/23
+		
+		
+		
+		Open to all
+	"
+"
+		CD Pharmacy LLC dba Red Rock Pharmacy
+		
+		863 W 450 SSpringville, UT 84663
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		redrockhome.pharmacy
+
+
+	if (""redrockhome.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1965_WEBADDR"").href = ""redrockhome.pharmacy"";
+	}
+
+
+	","
+		
+		06/23/24
+		
+		
+		
+		
+	"
+"
+		CenterWell Pharmacy, Inc
+		
+		500 W Main StLouisville, KY 40202
+		
+		[+] 5 Stores
+		[-] 5 Stores
+	",[+] 5 Stores,"
+		www.centerwellpharmacy.com
+
+
+	if (""www.centerwellpharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2540_WEBADDR"").href = ""www.centerwellpharmacy.com"";
+	}
+
+
+	","
+		
+		09/24/23
+		
+		
+		
+		Membership Required
+	"
+"
+		CHS Pharmacy Services, Inc d/b/a CarolinaCARE
+		
+		4400 Golf Acres Drive, Building J, Suite C Charlotte, NC 28208
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.carolinacarerx.org
+
+
+	if (""www.carolinacarerx.org"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2132_WEBADDR"").href = ""www.carolinacarerx.org"";
+	}
+
+
+	","
+		
+		04/22/24
+		
+		
+		
+		
+	"
+"
+		Costco Wholesale Corporation
+		
+		999 Lake DriveIssaquah, WA 98027
+		
+		[+] 518 Stores
+		[-] 518 Stores
+	",[+] 518 Stores,"
+		www.costco.com
+
+
+	if (""www.costco.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1359_WEBADDR"").href = ""www.costco.com"";
+	}
+
+
+	","
+		
+		09/13/24
+		
+		
+		
+		Open to all
+	"
+"
+		Curant, Inc
+		
+		200 Technology Ct SESmyrna, GA 30082
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		www.curanthealth.com
+
+
+	if (""www.curanthealth.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""102_WEBADDR"").href = ""www.curanthealth.com"";
+	}
+
+
+	","
+		
+		01/22/23
+		
+		
+		
+		Open to all
+	"
+"
+		DEGC Enterprises US, Inc dba CCS Medical
+		
+		1505 LBJ Freeway, Suite 550Farmers Branch, TX 75234
+		
+		[+] 3 Stores
+		[-] 3 Stores
+	",[+] 3 Stores,"
+		www.ccsmed.com
+
+
+	if (""www.ccsmed.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""765_WEBADDR"").href = ""www.ccsmed.com"";
+	}
+
+
+	","
+		
+		01/29/23
+		
+		
+		
+		Open to all
+	"
+"
+		DIVVYMED, LLC dba DIVVYDOSE
+		
+		4300 44th AveMoline, IL 61265
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.divvydose.com
+
+
+	if (""www.divvydose.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""627_WEBADDR"").href = ""www.divvydose.com"";
+	}
+
+
+	","
+		
+		01/31/25
+		
+		
+		
+		Open to all
+	"
+"
+		Dulivuto Corp
+		
+		4606 FM 1960 WHouston, TX 77069
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.friendswoodhealthmartpharmacy.com
+
+
+	if (""www.friendswoodhealthmartpharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1443_WEBADDR"").href = ""www.friendswoodhealthmartpharmacy.com"";
+	}
+
+
+	","
+		
+		09/01/24
+		
+		
+		
+		
+	"
+"
+		Eagle Pharmacy LLC
+		
+		350 Eagles Landing DriveLakeland, FL 33810
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		eaglepharmacy.com
+
+
+	if (""eaglepharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1397_WEBADDR"").href = ""eaglepharmacy.com"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		Elixir Pharmacy, LLC
+		
+		7835 Freedom Ave. NWNorth Canton, OH 44720
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		envisionpharmacies.com
+
+
+	if (""envisionpharmacies.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1444_WEBADDR"").href = ""envisionpharmacies.com"";
+	}
+
+
+	","
+		
+		11/01/24
+		
+		
+		
+		Open to all
+	"
+"
+		ESI Mail Pharmacy Service, Inc dba Express Script
+		
+		One Express WaySaint Louis, MO 63121
+		
+		[+] 12 Stores
+		[-] 12 Stores
+	",[+] 12 Stores,"
+		www.express-scripts.com
+
+
+	if (""www.express-scripts.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""518_WEBADDR"").href = ""www.express-scripts.com"";
+	}
+
+my.cigna.com
+
+
+	if (""my.cigna.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2335_WEBADDR"").href = ""my.cigna.com"";
+	}
+
+
+	","
+		
+		12/29/22
+		
+		
+		
+		Membership Required
+	"
+"
+		Essentia Health
+		
+		502 E Second StreetDuluth, MN 55805
+		
+		[+] 27 Stores
+		[-] 27 Stores
+	",[+] 27 Stores,"
+		www.essentiahealth.org
+
+
+	if (""www.essentiahealth.org"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1334_WEBADDR"").href = ""www.essentiahealth.org"";
+	}
+
+
+	","
+		
+		01/29/24
+		
+		
+		
+		Open to all
+	"
+"
+		ExperienceCare Specialty Pharmacy
+		
+		3730 Kirby Dr, Ste 210Houston, TX 77098
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.ecspecialtyrx.com
+
+
+	if (""www.ecspecialtyrx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2240_WEBADDR"").href = ""www.ecspecialtyrx.com"";
+	}
+
+
+	","
+		
+		06/09/24
+		
+		
+		
+		
+	"
+"
+		Genesis Apothecary, Inc. dba Rosh Pharmacy
+		
+		101 Southwestern Blvd, Ste 100Sugar Land, TX 77478
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		rosh.pharmacy
+
+
+	if (""rosh.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2244_WEBADDR"").href = ""rosh.pharmacy"";
+	}
+
+
+	","
+		
+		10/07/24
+		
+		
+		
+		
+	"
+"
+		Gentry Health Services, Inc
+		
+		33381 Walker RoadAvon Lake, OH 44012
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		gentryhealthservices.com
+
+
+	if (""gentryhealthservices.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""157_WEBADDR"").href = ""gentryhealthservices.com"";
+	}
+
+
+	","
+		
+		11/08/24
+		
+		
+		
+		Membership Required
+	"
+"
+		Green Oaks Pharma, Inc dba DFW Wellness Pharmacy
+		
+		711 E Lamar Blvd STE 101Arlington, TX 76011
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.dfwwellnesspharmacy.com
+
+
+	if (""www.dfwwellnesspharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""859_WEBADDR"").href = ""www.dfwwellnesspharmacy.com"";
+	}
+
+
+	","
+		
+		01/29/23
+		
+		
+		
+		Open to all
+	"
+"
+		Harper's Pharmacy, Inc.
+		
+		132 S Anita DrOrange, CA 92868
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		ameripharma.us
+
+
+	if (""ameripharma.us"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1471_WEBADDR"").href = ""ameripharma.us"";
+	}
+
+
+	","
+		
+		03/25/23
+		
+		
+		
+		
+	"
+"
+		Harris Teeter, LLC
+		
+		701 Crestdale RdMatthews, NC 28105
+		
+		[+] 204 Stores
+		[-] 204 Stores
+	",[+] 204 Stores,"
+		www.harristeeter.com
+
+
+	if (""www.harristeeter.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2220_WEBADDR"").href = ""www.harristeeter.com"";
+	}
+
+www.harristeeterpharmacy.com
+
+
+	if (""www.harristeeterpharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2219_WEBADDR"").href = ""www.harristeeterpharmacy.com"";
+	}
+
+www.harristeeter.pharmacy
+
+
+	if (""www.harristeeter.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2221_WEBADDR"").href = ""www.harristeeter.pharmacy"";
+	}
+
+
+	","
+		
+		09/06/24
+		
+		
+		
+		
+	"
+"
+		HomeTown Pharmacy, Inc
+		
+		4171 S Oceana DrNew Era, MI 49446
+		
+		[+] 39 Stores
+		[-] 39 Stores
+	",[+] 39 Stores,"
+		www.hometownpharmacy.com
+
+
+	if (""www.hometownpharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""255_WEBADDR"").href = ""www.hometownpharmacy.com"";
+	}
+
+www.hometown.pharmacy
+
+
+	if (""www.hometown.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""795_WEBADDR"").href = ""www.hometown.pharmacy"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		Hwareh.com, Inc dba HealthWarehouse.com
+		
+		7107 Industrial RdFlorence, KY 41042
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.healthwarehouse.com
+
+
+	if (""www.healthwarehouse.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""550_WEBADDR"").href = ""www.healthwarehouse.com"";
+	}
+
+www.healthwarehouse.pharmacy
+
+
+	if (""www.healthwarehouse.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""808_WEBADDR"").href = ""www.healthwarehouse.pharmacy"";
+	}
+
+
+	","
+		
+		04/23/25
+		
+		
+		
+		Open to all
+	"
+"
+		Hy-Vee, Inc.
+		
+		5820 Westown ParkwayWest Des Moines, IA 50266-8223
+		
+		[+] 275 Stores
+		[-] 275 Stores
+	",[+] 275 Stores,"
+		www.hy-vee.com
+
+
+	if (""www.hy-vee.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2097_WEBADDR"").href = ""www.hy-vee.com"";
+	}
+
+
+	","
+		
+		07/13/24
+		
+		
+		
+		
+	"
+"
+		HYVACS, LLC d/b/a Hy-Vee Pharmacy Solutions
+		
+		10004 South 152nd St, Ste COmaha, NE 68138
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		www.hvrxsolutions.com
+
+
+	if (""www.hvrxsolutions.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2113_WEBADDR"").href = ""www.hvrxsolutions.com"";
+	}
+
+
+	","
+		
+		09/20/24
+		
+		
+		
+		Open to all
+	"
+"
+		IHC Health Services Inc.
+		
+		4393 S Riverboat Rd Suite 100Taylorsville, UT 84123
+		
+		[+] 3 Stores
+		[-] 3 Stores
+	",[+] 3 Stores,"
+		intermountainhealthcare.org/services/pharmacy/
+
+
+	if (""intermountainhealthcare.org/services/pharmacy/"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1434_WEBADDR"").href = ""intermountainhealthcare.org/services/pharmacy/"";
+	}
+
+
+	","
+		
+		12/03/24
+		
+		
+		
+		Open to all
+	"
+"
+		Indiana University Health, Inc
+		
+		340 W 10th StIndianapolis, IN 46202
+		
+		[+] 13 Stores
+		[-] 13 Stores
+	",[+] 13 Stores,"
+		www.iuhealth.org/patients/pharmacies/
+
+
+	if (""www.iuhealth.org/patients/pharmacies/"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1236_WEBADDR"").href = ""www.iuhealth.org/patients/pharmacies/"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		Infinity Compounding Solutions, LLC dba Infinity C
+		
+		1204 SE 28th St, Suite 2Bentonville, AR 72712
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.icsrx.com
+
+
+	if (""www.icsrx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""760_WEBADDR"").href = ""www.icsrx.com"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		Jolanto Corp dba Memorial Pharmacy
+		
+		10101 Southwest FreewayHouston, TX 77074
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.memorial.pharmacy
+
+
+	if (""www.memorial.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1309_WEBADDR"").href = ""www.memorial.pharmacy"";
+	}
+
+
+	","
+		
+		08/15/24
+		
+		
+		
+		
+	"
+"
+		Kmart Corporation
+		
+		3333 Beverly RoadHoffman Estates, IL 60179
+		
+		[+] 100 Stores
+		[-] 100 Stores
+	",[+] 100 Stores,"
+		www.kmart.com
+
+
+	if (""www.kmart.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""272_WEBADDR"").href = ""www.kmart.com"";
+	}
+
+www.mygofer.com
+
+
+	if (""www.mygofer.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""273_WEBADDR"").href = ""www.mygofer.com"";
+	}
+
+
+	","
+		
+		01/12/24
+		
+		
+		
+		Open to all
+	"
+"
+		Magellan Rx Pharmacy, LLC
+		
+		6870 Shadowridge Drive, Suite 111Orlando, FL 32812
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		www.magellanrx.pharmacy
+
+
+	if (""www.magellanrx.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2122_WEBADDR"").href = ""www.magellanrx.pharmacy"";
+	}
+
+
+	","
+		
+		06/03/24
+		
+		
+		
+		
+	"
+"
+		MedImpact Direct, LLC
+		
+		8060 S Kyrene RdTempe, AZ 85284
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.medimpact.com
+
+
+	if (""www.medimpact.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1959_WEBADDR"").href = ""www.medimpact.com"";
+	}
+
+www.medimpactdirect.com
+
+
+	if (""www.medimpactdirect.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1960_WEBADDR"").href = ""www.medimpactdirect.com"";
+	}
+
+
+	","
+		
+		11/16/24
+		
+		
+		
+		
+	"
+"
+		Meijer, Inc
+		
+		2929 Walker Avenue NWGrand Rapids, MI 49544
+		
+		[+] 242 Stores
+		[-] 242 Stores
+	",[+] 242 Stores,"
+		www.meijer.com
+
+
+	if (""www.meijer.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""689_WEBADDR"").href = ""www.meijer.com"";
+	}
+
+www.meijerspecialtypharmacy.com 
+
+
+	if (""www.meijerspecialtypharmacy.com "".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1725_WEBADDR"").href = ""www.meijerspecialtypharmacy.com "";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		Millennial Benefit Management Corporation dba GeniusRX
+		
+		622 Banyan Trail STE 614Boca Raton, FL 33431
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.geniusrx.com
+
+
+	if (""www.geniusrx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2542_WEBADDR"").href = ""www.geniusrx.com"";
+	}
+
+
+	","
+		
+		04/22/25
+		
+		
+		
+		Open to all
+	"
+"
+		Mini Pharmacy Enterprises, Inc.
+		
+		2425 Porter StreetLos Angeles, CA 90021
+		
+		[+]  Stores
+		[-]  Stores
+	",[+]  Stores,"
+		
+	","
+		
+		02/11/25
+		
+		
+		
+		
+	"
+"
+		MobiMeds, Inc dba The Pill Club
+		
+		411 Borel AveSan Mateo, CA 94402
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.thepillclub.com
+
+
+	if (""www.thepillclub.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1209_WEBADDR"").href = ""www.thepillclub.com"";
+	}
+
+
+	","
+		
+		08/31/23
+		
+		
+		
+		Open to all
+	"
+"
+		Noble Health Services, Inc.
+		
+		6040 Tarbell RoadSyracuse, NY 13206
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		www.noblehealthservices.com
+
+
+	if (""www.noblehealthservices.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1272_WEBADDR"").href = ""www.noblehealthservices.com"";
+	}
+
+
+	","
+		
+		09/07/23
+		
+		
+		
+		Open to all
+	"
+"
+		North Coast Medical Supply, LLC dba Advanced Diabetes Supply
+		
+		2544 Campbell Pl, Suite 150Carlsbad, CA 92009
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.northcoastmed.com
+
+
+	if (""www.northcoastmed.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""690_WEBADDR"").href = ""www.northcoastmed.com"";
+	}
+
+
+	","
+		
+		06/03/25
+		
+		
+		
+		Open to all
+	"
+"
+		OncoMed Specialty LLC dba Onco360 Oncology Pharmacy
+		
+		13410 Eastpoint Centre Drive, Suite 101Louisville, KY 40223
+		
+		[+] 7 Stores
+		[-] 7 Stores
+	",[+] 7 Stores,"
+		www.onco360.com
+
+
+	if (""www.onco360.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1436_WEBADDR"").href = ""www.onco360.com"";
+	}
+
+
+	","
+		
+		12/20/24
+		
+		
+		
+		Open to all
+	"
+"
+		OptumRx, Inc
+		
+		2300 Main StIrvine, CA 92614
+		
+		[+] 13 Stores
+		[-] 13 Stores
+	",[+] 13 Stores,"
+		www.optumrx.com
+
+
+	if (""www.optumrx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""696_WEBADDR"").href = ""www.optumrx.com"";
+	}
+
+www.briovarx.com
+
+
+	if (""www.briovarx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1445_WEBADDR"").href = ""www.briovarx.com"";
+	}
+
+
+	","
+		
+		04/20/23
+		
+		
+		
+		Membership Required
+	"
+"
+		Orsini Pharmaceutical Services, LLC dba Orsini Health Care
+		
+		1111 Nicholas BlvdElk Grove Village, IL 60007
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.orsinihealthcare.com/
+
+
+	if (""www.orsinihealthcare.com/"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""209_WEBADDR"").href = ""www.orsinihealthcare.com/"";
+	}
+
+
+	","
+		
+		03/07/25
+		
+		
+		
+		Open to all
+	"
+"
+		PANTHERx Specialty LLC
+		
+		24 Summit Park DrPittsburgh, PA 15275
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		www.pantherxrare.com
+
+
+	if (""www.pantherxrare.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1988_WEBADDR"").href = ""www.pantherxrare.com"";
+	}
+
+
+	","
+		
+		01/22/24
+		
+		
+		
+		Open to all
+	"
+"
+		Pharma Buddies Corp
+		
+		5860 N Orange Blossom TrailOrlando, FL 32810
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		www.rosemontspecialtyrx.com/
+
+
+	if (""www.rosemontspecialtyrx.com/"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1808_WEBADDR"").href = ""www.rosemontspecialtyrx.com/"";
+	}
+
+
+	","
+		
+		02/13/23
+		
+		
+		
+		
+	"
+"
+		PharmaMedRx LLC dba Mint Pharmacy and Skin Clinic
+		
+		1201 US Highway 1North Palm Beach, FL 33408
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.mintrxpharmacy.com
+
+
+	if (""www.mintrxpharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1263_WEBADDR"").href = ""www.mintrxpharmacy.com"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		PillPack LLC dba PillPack by Amazon Pharmacy
+		
+		250 Commercial St, Suite 2012Manchester, NH 03101
+		
+		[+] 8 Stores
+		[-] 8 Stores
+	",[+] 8 Stores,"
+		www.amazon.com
+
+
+	if (""www.amazon.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2303_WEBADDR"").href = ""www.amazon.com"";
+	}
+
+www.pillpack.com
+
+
+	if (""www.pillpack.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""234_WEBADDR"").href = ""www.pillpack.com"";
+	}
+
+www.pillpack.pharmacy
+
+
+	if (""www.pillpack.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""794_WEBADDR"").href = ""www.pillpack.pharmacy"";
+	}
+
+
+	","
+		
+		08/11/23
+		
+		
+		
+		Open to all
+	"
+"
+		Postmeds Inc dba TruePill 
+		
+		3121 Diablo AveHayward, CA 94545
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		truepill.pharmacy
+
+
+	if (""truepill.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1579_WEBADDR"").href = ""truepill.pharmacy"";
+	}
+
+www.truepill.com
+
+
+	if (""www.truepill.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1457_WEBADDR"").href = ""www.truepill.com"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to All
+	"
+"
+		Powerhouse Pharmacy LLC
+		
+		4740 W Mockingbird Ln, Suite 100BDallas, TX 75209
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.powerhousepharmacy.com
+
+
+	if (""www.powerhousepharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2198_WEBADDR"").href = ""www.powerhousepharmacy.com"";
+	}
+
+
+	","
+		
+		08/15/24
+		
+		
+		
+		
+	"
+"
+		Ridgeway Pharmacy, Ltd
+		
+		2824 N Hwy 93Victor, MT 59875
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.ridgeway.pharmacy
+
+
+	if (""www.ridgeway.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""786_WEBADDR"").href = ""www.ridgeway.pharmacy"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		Ron Group, LLC
+		
+		1501 Belle Isle AveMount Pleasant, SC 29464
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.blueskyspecialtypharmacy.com
+
+
+	if (""www.blueskyspecialtypharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2175_WEBADDR"").href = ""www.blueskyspecialtypharmacy.com"";
+	}
+
+
+	","
+		
+		04/18/25
+		
+		
+		
+		
+	"
+"
+		Rx Outreach Inc
+		
+		3171 Riverport Tech Center DrMaryland Heights, MO 63043
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.rxoutreach.org
+
+
+	if (""www.rxoutreach.org"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""286_WEBADDR"").href = ""www.rxoutreach.org"";
+	}
+
+www.rxoutreach.pharmacy
+
+
+	if (""www.rxoutreach.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""797_WEBADDR"").href = ""www.rxoutreach.pharmacy"";
+	}
+
+
+	","
+		
+		10/07/23
+		
+		
+		
+		Open to all
+	"
+"
+		Rx To Go, LLC
+		
+		14543 Global Parkway, Suite 100Fort Myers, FL 33913
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.flcancer.com
+
+
+	if (""www.flcancer.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1306_WEBADDR"").href = ""www.flcancer.com"";
+	}
+
+
+	","
+		
+		03/29/24
+		
+		
+		
+		
+	"
+"
+		Saint Peters Community Pharmacy
+		
+		4885 Mexico RoadSaint Peters, MO 63376
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.stpeterscommunitypharmacy.com/
+
+
+	if (""www.stpeterscommunitypharmacy.com/"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1560_WEBADDR"").href = ""www.stpeterscommunitypharmacy.com/"";
+	}
+
+www.spcpharmacy.com
+
+
+	if (""www.spcpharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1561_WEBADDR"").href = ""www.spcpharmacy.com"";
+	}
+
+
+	","
+		
+		04/01/23
+		
+		
+		
+		
+	"
+"
+		Schraft's 2.0
+		
+		3 Wing Drive, Ste 102Cedar Knolls, NJ 07927
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.schrafts2.com
+
+
+	if (""www.schrafts2.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2129_WEBADDR"").href = ""www.schrafts2.com"";
+	}
+
+
+	","
+		
+		05/26/25
+		
+		
+		
+		Opren to all
+	"
+"
+		Scripts Rx
+		
+		1815 S Meyers RoadOakbrook Terrace, IL 60181
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		www.scriptsrxpharmacy.com
+
+
+	if (""www.scriptsrxpharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2252_WEBADDR"").href = ""www.scriptsrxpharmacy.com"";
+	}
+
+agora-rx.com
+
+
+	if (""agora-rx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2282_WEBADDR"").href = ""agora-rx.com"";
+	}
+
+
+	","
+		
+		02/14/25
+		
+		
+		
+		
+	"
+"
+		Senderra Rx Partners, LLC dba Senderra Specialty Pharmacy
+		
+		1301 E Arapaho Rd Ste 101Richardson, TX 75081
+		
+		[+] 3 Stores
+		[-] 3 Stores
+	",[+] 3 Stores,"
+		www.senderrarx.com
+
+
+	if (""www.senderrarx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""877_WEBADDR"").href = ""www.senderrarx.com"";
+	}
+
+
+	","
+		
+		03/09/23
+		
+		
+		
+		Open to all
+	"
+"
+		Shan-Pham Diversified Holdings, Inc
+		
+		12946 Dairy Ashford RdSugar Land, TX 77478
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		medhope.pharmacy
+
+
+	if (""medhope.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2242_WEBADDR"").href = ""medhope.pharmacy"";
+	}
+
+
+	","
+		
+		10/18/24
+		
+		
+		
+		
+	"
+"
+		Solera Specialty Pharmacy, LLC
+		
+		2100 Park Central Blvd NorthPompano Beach, FL 33064
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.solerarx.com
+
+
+	if (""www.solerarx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1281_WEBADDR"").href = ""www.solerarx.com"";
+	}
+
+
+	","
+		
+		09/07/23
+		
+		
+		
+		Open to all
+	"
+"
+		SortPak Rx, Inc.
+		
+		124 S. Glendale AveGlendale, CA 91205
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		 www.sortpak.com
+
+
+	if ("" www.sortpak.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2065_WEBADDR"").href = "" www.sortpak.com"";
+	}
+
+
+	","
+		
+		09/11/23
+		
+		
+		
+		Open to All
+	"
+"
+		SP2, LLC
+		
+		3740 St Johns Bluff Rd S ste 19Jacksonville, FL 32224
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		www.smrtrx.net
+
+
+	if (""www.smrtrx.net"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1402_WEBADDR"").href = ""www.smrtrx.net"";
+	}
+
+
+	","
+		
+		02/11/25
+		
+		
+		
+		
+	"
+"
+		Synergen Rx, LLC
+		
+		3990 Flowers Rd, Ste 530Doraville, GA 30360
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.synergenrx.com
+
+
+	if (""www.synergenrx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2131_WEBADDR"").href = ""www.synergenrx.com"";
+	}
+
+
+	","
+		
+		11/09/23
+		
+		
+		
+		
+	"
+"
+		The Kroger Co
+		
+		555 Race StCincinnati, OH 45202
+		
+		[+] 2330 Stores
+		[-] 2330 Stores
+	",[+] 2330 Stores,"
+		www.bakersplus.com
+
+
+	if (""www.bakersplus.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1407_WEBADDR"").href = ""www.bakersplus.com"";
+	}
+
+www.citymarket.com
+
+
+	if (""www.citymarket.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1408_WEBADDR"").href = ""www.citymarket.com"";
+	}
+
+www.dillons.com
+
+
+	if (""www.dillons.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1409_WEBADDR"").href = ""www.dillons.com"";
+	}
+
+www.fredmeyer.com
+
+
+	if (""www.fredmeyer.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1411_WEBADDR"").href = ""www.fredmeyer.com"";
+	}
+
+www.frysfood.com
+
+
+	if (""www.frysfood.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1412_WEBADDR"").href = ""www.frysfood.com"";
+	}
+
+www.gerbes.com
+
+
+	if (""www.gerbes.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1413_WEBADDR"").href = ""www.gerbes.com"";
+	}
+
+www.jaycfoods.com
+
+
+	if (""www.jaycfoods.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1414_WEBADDR"").href = ""www.jaycfoods.com"";
+	}
+
+www.kingsoopers.com
+
+
+	if (""www.kingsoopers.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1415_WEBADDR"").href = ""www.kingsoopers.com"";
+	}
+
+www.kroger.com
+
+
+	if (""www.kroger.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1416_WEBADDR"").href = ""www.kroger.com"";
+	}
+
+www.owensmarket.com
+
+
+	if (""www.owensmarket.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1418_WEBADDR"").href = ""www.owensmarket.com"";
+	}
+
+www.pay-less.com
+
+
+	if (""www.pay-less.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1419_WEBADDR"").href = ""www.pay-less.com"";
+	}
+
+www.qfc.com
+
+
+	if (""www.qfc.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1420_WEBADDR"").href = ""www.qfc.com"";
+	}
+
+www.ralphs.com
+
+
+	if (""www.ralphs.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1421_WEBADDR"").href = ""www.ralphs.com"";
+	}
+
+www.smithsfoodanddrug.com
+
+
+	if (""www.smithsfoodanddrug.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1422_WEBADDR"").href = ""www.smithsfoodanddrug.com"";
+	}
+
+www.ppsrx.com
+
+
+	if (""www.ppsrx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1449_WEBADDR"").href = ""www.ppsrx.com"";
+	}
+
+
+	","
+		
+		09/06/24
+		
+		
+		
+		Open to all
+	"
+"
+		The MetroHealth System
+		
+		9885 Rockside Rd, OH 44125
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		metrohealth.pharmacy
+
+
+	if (""metrohealth.pharmacy"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1905_WEBADDR"").href = ""metrohealth.pharmacy"";
+	}
+
+
+	","
+		
+		12/05/23
+		
+		
+		
+		
+	"
+"
+		Trillium Health, Inc.
+		
+		259 Monroe Ave.Rochester, NY 14607
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		mylocalrx.org
+
+
+	if (""mylocalrx.org"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1151_WEBADDR"").href = ""mylocalrx.org"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		Triple SR Pharmacy Inc
+		
+		330 N Brand Blvd Ste 155Glendale, CA 91203
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.hopesp.com
+
+
+	if (""www.hopesp.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1973_WEBADDR"").href = ""www.hopesp.com"";
+	}
+
+www.pharm-assist.com
+
+
+	if (""www.pharm-assist.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1974_WEBADDR"").href = ""www.pharm-assist.com"";
+	}
+
+
+	","
+		
+		12/18/22
+		
+		
+		
+		Open to All
+	"
+"
+		Unicare Pharmacy, Inc dba MedicoRx Specialty Pharmacy 
+		
+		7039 Valjean AveVan Nuys, CA 91406
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.medicorx.com
+
+
+	if (""www.medicorx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""448_WEBADDR"").href = ""www.medicorx.com"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		Union Pacific Railroad Employees Health Systems, Inc
+		
+		1040 North 2200 WestSalt Lake City, UT 84116
+		
+		[+] 2 Stores
+		[-] 2 Stores
+	",[+] 2 Stores,"
+		staging.depotdrug.com
+
+
+	if (""staging.depotdrug.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1573_WEBADDR"").href = ""staging.depotdrug.com"";
+	}
+
+
+	","
+		
+		02/13/23
+		
+		
+		
+		Open to all
+	"
+"
+		University of Chicago Medical Center
+		
+		5758 S. Maryland AveChicago, IL 60637
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		
+	","
+		
+		07/10/25
+		
+		
+		
+		
+	"
+"
+		US Med Acquisition, Inc.
+		
+		1480 NW 79 AveDoral, FL 33126
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.usmed-rx.com
+
+
+	if (""www.usmed-rx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1390_WEBADDR"").href = ""www.usmed-rx.com"";
+	}
+
+
+	","
+		
+		03/18/24
+		
+		
+		
+		Open to all
+	"
+"
+		Vitalab Pharmacy Inc
+		
+		4045 E Bell Rd, Ste 163Phoenix, AZ 85032
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.vascorx.com
+
+
+	if (""www.vascorx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""612_WEBADDR"").href = ""www.vascorx.com"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		Wake Forest University Baptist Medical Center dba North Carolina Baptist Hospital
+		
+		Medical Center BlvdWinston-Salem, NC 27157
+		
+		[+] 7 Stores
+		[-] 7 Stores
+	",[+] 7 Stores,"
+		prescriptions.wakehealth.edu/
+
+
+	if (""prescriptions.wakehealth.edu/"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""872_WEBADDR"").href = ""prescriptions.wakehealth.edu/"";
+	}
+
+
+	","
+		
+		03/05/24
+		
+		
+		
+		Open to All
+	"
+"
+		Wal-Mart, Inc
+		
+		702 SW 8th StBentonville, AR 72716
+		
+		[+] 5188 Stores
+		[-] 5188 Stores
+	",[+] 5188 Stores,"
+		www.walmart.com/cp/pharmacy/5431
+
+
+	if (""www.walmart.com/cp/pharmacy/5431"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""701_WEBADDR"").href = ""www.walmart.com/cp/pharmacy/5431"";
+	}
+
+www.samsclub.com
+
+
+	if (""www.samsclub.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1454_WEBADDR"").href = ""www.samsclub.com"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		Walgreen Co
+		
+		200 Wilmot RdDeerfield, IL 60015
+		
+		[+] 9757 Stores
+		[-] 9757 Stores
+	",[+] 9757 Stores,"
+		www.walgreens.com
+
+
+	if (""www.walgreens.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""584_WEBADDR"").href = ""www.walgreens.com"";
+	}
+
+alliancerxwp.com 
+
+
+	if (""alliancerxwp.com "".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2422_WEBADDR"").href = ""alliancerxwp.com "";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Open to all
+	"
+"
+		Weis Markets, Inc
+		
+		1000 South Second StreetSunbury, PA 17801
+		
+		[+] 125 Stores
+		[-] 125 Stores
+	",[+] 125 Stores,"
+		www.weismarkets.com
+
+
+	if (""www.weismarkets.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""2047_WEBADDR"").href = ""www.weismarkets.com"";
+	}
+
+
+	","
+		
+		05/29/23
+		
+		
+		
+		Open to all
+	"
+"
+		WellDyneRx, LLC
+		
+		500 Eagles LandingLakeland, FL 33810
+		
+		[+] 4 Stores
+		[-] 4 Stores
+	",[+] 4 Stores,"
+		www.welldynerx.com
+
+
+	if (""www.welldynerx.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1377_WEBADDR"").href = ""www.welldynerx.com"";
+	}
+
+www.usspecialtycare.com
+
+
+	if (""www.usspecialtycare.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""1378_WEBADDR"").href = ""www.usspecialtycare.com"";
+	}
+
+
+	","
+		
+		Reaccreditation in process
+		
+		
+		
+		Membership Required
+	"
+"
+		Your Rx Pharmacy, Inc
+		
+		2637 Ira  E Woods Ave, Suite 200Grapevine, TX 76051
+		
+		[+] 1 Stores
+		[-] 1 Stores
+	",[+] 1 Stores,"
+		www.yourrxpharmacy.com
+
+
+	if (""www.yourrxpharmacy.com"".indexOf(""http"") != -1)
+	{
+		document.getElementById(""846_WEBADDR"").href = ""www.yourrxpharmacy.com"";
+	}
+
+
+	","
+		
+		01/29/23
+		
+		
+		
+		Open to all
+	"
